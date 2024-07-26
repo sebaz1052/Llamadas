@@ -1,4 +1,4 @@
-package co.edu.uptc.management.constants;
+package co.edu.uptc.call.constants;
 
 public class CommonContants {
 	public static final String NEXT_LINE = "\n";
